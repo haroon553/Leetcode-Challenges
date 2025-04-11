@@ -1,9 +1,10 @@
-import org.example.minCostClimbingStairs.minCostClimbingStairs;
+package org.example.minCostClimbingStairs;
+
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.*;
 
-public class minCostClimbingStairsTest {
+class minCostClimbingStairsTest {
 
     @Test
     void testExample1() {
